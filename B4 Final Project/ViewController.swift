@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
+    @IBAction func button2(_ sender: Any) {
+    }
     @IBOutlet weak var Label: UILabel!
     
     @IBAction func Button(_ sender: Any) {
